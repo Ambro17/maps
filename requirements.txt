@@ -1,2 +1,3 @@
 folium==0.15.1
 jupyterlab==4.0.9
+shapely==2.0.2
